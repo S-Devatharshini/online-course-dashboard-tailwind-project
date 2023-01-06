@@ -61,6 +61,11 @@ It consists of :
 - List of Students based on their method of study and capacity.
 - Percentage of Students finished their homework.
 
+## Demo Link
+
+[Click here to view the Demo](https://drive.google.com/file/d/1Or50F3nxYVNST8n1vMIAPgYZZSfxey1T/view?usp=drivesdk)
+
+
 
 
 
